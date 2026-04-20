@@ -4,15 +4,15 @@ Token factory ecosystem on **Monad Mainnet** (Chain ID 143).
 
 Create, launch, and trade tokens with a fair bonding curve, automatic liquidity graduation, and built-in staking farms.
 
-## Deployed Contracts (v10)
+## Deployed Contracts (v11 — Production)
 
 | Contract | Address |
 |---|---|
-| **TokenFactory** | [`0xd2AC0B4c32e2F2d81Dd27BA0Eaec71561d755983`](https://monadexplorer.com/address/0xd2AC0B4c32e2F2d81Dd27BA0Eaec71561d755983) |
-| **FarmFactory** | [`0xE76b2273903850a27b22Ac8782d5041479846166`](https://monadexplorer.com/address/0xE76b2273903850a27b22Ac8782d5041479846166) |
-| **BondingCurveToken** (impl) | [`0x7Af43F9e39681094B836eb03EFd187989f4C7da0`](https://monadexplorer.com/address/0x7Af43F9e39681094B836eb03EFd187989f4C7da0) |
-| **FactoryRewardContract** (impl) | [`0x4AdCaDF4689E792b8A5B9Df0B1A9977cb8891CCa`](https://monadexplorer.com/address/0x4AdCaDF4689E792b8A5B9Df0B1A9977cb8891CCa) |
-| **PerpetualFarm** (impl) | [`0x23F7A3b889b12fF8212eba7fbA73d4ef4C8a7327`](https://monadexplorer.com/address/0x23F7A3b889b12fF8212eba7fbA73d4ef4C8a7327) |
+| **TokenFactory** | [`0xFE53e7b1a09BA235dB980D13282C8cDDD4f9329F`](https://monadexplorer.com/address/0xFE53e7b1a09BA235dB980D13282C8cDDD4f9329F) |
+| **FarmFactory** | [`0x3e6A90f54cee0772d29fCdEA5a42D13af26dD2D8`](https://monadexplorer.com/address/0x3e6A90f54cee0772d29fCdEA5a42D13af26dD2D8) |
+| **BondingCurveToken** (impl) | [`0xdff0676A07c7d18F01f8E1B255aF123634F68954`](https://monadexplorer.com/address/0xdff0676A07c7d18F01f8E1B255aF123634F68954) |
+| **FactoryRewardContract** (impl) | [`0x79f8Ca0790E7de135e255278615fA66A189B16ba`](https://monadexplorer.com/address/0x79f8Ca0790E7de135e255278615fA66A189B16ba) |
+| **PerpetualFarm** (impl) | [`0x0677a579C293B809C8C257eaB1A95B1d34235cB2`](https://monadexplorer.com/address/0x0677a579C293B809C8C257eaB1A95B1d34235cB2) |
 
 > Network: Monad Mainnet | RPC: `https://rpc.monad.xyz` | Chain ID: `143`
 
