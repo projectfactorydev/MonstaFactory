@@ -4,11 +4,11 @@ Token factory ecosystem on **Monad Mainnet** (Chain ID 143).
 
 Create, launch, and trade tokens with a fair bonding curve, automatic liquidity graduation, and built-in staking farms.
 
-## Deployed Contracts (v11 — Production)
+## Deployed Contracts (v12 — Production)
 
 | Contract | Address |
 |---|---|
-| **TokenFactory** | [`0xFE53e7b1a09BA235dB980D13282C8cDDD4f9329F`](https://monadexplorer.com/address/0xFE53e7b1a09BA235dB980D13282C8cDDD4f9329F) |
+| **TokenFactory** | [`0x487622E3E72DBC317AC796631fB333D34fe8cba4`](https://monadexplorer.com/address/0x487622E3E72DBC317AC796631fB333D34fe8cba4) |
 | **FarmFactory** | [`0x3e6A90f54cee0772d29fCdEA5a42D13af26dD2D8`](https://monadexplorer.com/address/0x3e6A90f54cee0772d29fCdEA5a42D13af26dD2D8) |
 | **BondingCurveToken** (impl) | [`0xdff0676A07c7d18F01f8E1B255aF123634F68954`](https://monadexplorer.com/address/0xdff0676A07c7d18F01f8E1B255aF123634F68954) |
 | **FactoryRewardContract** (impl) | [`0x79f8Ca0790E7de135e255278615fA66A189B16ba`](https://monadexplorer.com/address/0x79f8Ca0790E7de135e255278615fA66A189B16ba) |
